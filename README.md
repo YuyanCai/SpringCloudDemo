@@ -5,6 +5,10 @@
 
 笔记在markdown文件夹下
 
+软件包
+链接：https://pan.baidu.com/s/1ZqyOC4j_bTWPbp9cPZMZcA 
+提取码：kqvs
+
 详细文档
 
 Spring全家桶--SpringCloud（初级）
